@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nombre": "Producto A",
+        "precio": 350.13
+    },
+    {
+        "id": 2,
+        "nombre": "Paq. Lapiceros azules",
+        "precio": 845.19
+    },
+    {
+        "id": 3,
+        "nombre": "Escoba de pasillo un2",
+        "precio": 300.0
+    },
+    {
+        "id": 50,
+        "nombre": "Escoba magica",
+        "precio": 180.25
+    },
+    {
+        "id": 19,
+        "nombre": "Paq. Lapices",
+        "precio": 125.25
+    },
+    {
+        "id": 9,
+        "nombre": "Paq. Cuadernos",
+        "precio": 10000.0
+    },
+    {
+        "id": 49,
+        "nombre": "Paq. Hojas en blanco",
+        "precio": 19.25
+    },
+    {
+        "id": 1,
+        "nombre": "lapiceros negros",
+        "precio": 195.25
+    }
+]
