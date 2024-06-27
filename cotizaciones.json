@@ -1,0 +1,14 @@
+[
+    {
+        "numero": 3304,
+        "nombre_cliente": "Palacio Nacional Srl, ",
+        "monto": 12996.5472,
+        "estado": "pendiente"
+    },
+    {
+        "numero": 2781,
+        "nombre_cliente": "Plaza central",
+        "monto": 4832.794,
+        "estado": "pendiente"
+    }
+]
